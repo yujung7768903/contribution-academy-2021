@@ -1,5 +1,7 @@
 # contribution-academy-2021
 
+➡️ [2021 오픈소스 컨트리뷰션 아카데미 회고 글 보러가기](https://velog.io/@youjung/2021-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%ED%9B%84%EA%B8%B0)
+
 
 ### Question template 
 
