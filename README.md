@@ -8,6 +8,8 @@
 
 ## 참여했던 프로젝트
 **Backend.AI - 래블업에서 개발한 Backend.AI는 GPU 특화 머신러닝 연산자원 관리 플랫폼**    
+> Github: https://github.com/lablup/backend.ai   
+> WebSite: https://backend.ai/
 
 <img height="350" alt="Screen Shot 2023-01-08 at 3 25 17 PM" src="https://user-images.githubusercontent.com/68562176/211183482-1b38c2ef-41b5-4783-920f-59b9084789c7.png"> <img height="350" alt="Screen Shot 2023-01-08 at 3 25 45 PM" src="https://user-images.githubusercontent.com/68562176/211183502-7b5d1df9-074f-4708-8ef0-0678eed072d2.png">
 
